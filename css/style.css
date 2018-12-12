@@ -38,7 +38,7 @@ header::before{
   right: 0;
   top: 0;
   display: block;
-  background-image: url("char_file/images/original.jpg");
+  background-image: url("./images/original.jpg");
   opacity: 0.8;
   background-size: cover;
   transform-origin: center center 0;
