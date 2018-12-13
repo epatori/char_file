@@ -38,7 +38,7 @@ header::before{
   right: 0;
   top: 0;
   display: block;
-  background-image: url("https://raw.githubusercontent.com/epatori/char_file/master/images/Quinn.jpg");
+  background-image: url("https://raw.githubusercontent.com/epatori/char_file/master/images/original.jpg");
   opacity: 0.8;
   background-size: cover;
   transform-origin: center center 0;
